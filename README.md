@@ -15,7 +15,6 @@ The goal of this project is to develop a fully functional and responsive website
 - [Usage](#usage)
 - [Features](#features)
 - [Technical Requirements](#technical-requirements)
-- [File Structure](#file-structure)
 - [Dummy Data](#dummy-data)
 - [Contributing](#contributing)
 - [License](#license)
