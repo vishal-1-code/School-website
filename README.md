@@ -85,38 +85,7 @@ To set up and run the project locally, follow these steps:
 - **Accessibility**: ARIA roles and keyboard navigation.
 - **Performance**: Lazy loading of images and components.
 
-## File Structure
 
-The project is organized as follows:
-
-```
-/src
-  /components
-    CarouselComponent.js
-    Navigation.js
-    Footer.js
-  /pages
-    Home.js
-    AboutUs.js
-    Academics.js
-    Admissions.js
-    Faculty.js
-    Students.js
-    Gallery.js
-    ContactUs.js
-  /assets
-    logo.png
-    sports_day.jpg
-    science_exhibition.jpg
-    cultural_fest.jpg
-    classroom.jpg
-    library.jpg
-    school_tour.mp4
-    annual_function.mp4
-  App.js
-  index.js
-  index.css
-```
 
 ## Dummy Data
 
