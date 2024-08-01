@@ -1,6 +1,4 @@
-Here is a detailed and organized README file for the React school website project, incorporating the requirements and dummy data provided:
 
----
 
 # Springdale Public School Website
 
